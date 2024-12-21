@@ -1,0 +1,19 @@
+.textContainer {
+  text-align: center;
+  max-width: 50.3rem;
+}
+.header1 {
+  font-size: 3.2rem;
+  color: var(--very-dark-blue);
+}
+.header2 {
+  letter-spacing: 0.6px;
+  font-weight: 600;
+  font-size: 3.2rem;
+  color: var(--Very-dark-blue);
+}
+.description {
+  margin-top: 2.56rem;
+  font-size: 1.44em;
+  color: var(--grayish-blue);
+}
